@@ -148,13 +148,13 @@ Both models successfully identified abnormal observations using different detect
 # 📂 Project Structure
 
 ```text
-thyroid-anomaly-detection/
+
+anomaly-detection-isolation-forest-lof/
 │
 ├── .gitignore
 ├── IsolationForest & LOF.ipynb
-├── thyroid_dataset.csv
-└── README.md
-```
+├── README.md
+└── thyroid_dataset.csv
 
 ---
 
